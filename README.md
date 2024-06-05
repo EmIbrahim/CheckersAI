@@ -1,5 +1,5 @@
 # CheckersAI
-Welcome to the AI Checkers project repository! This project leverages cutting-edge AI techniques to create an advanced Checkers game experience. Our system integrates multiple AI methodologies, providing diverse and challenging gameplay options. Below is a brief overview of the key features:
+Welcome to the AI Checkers project repository! This project leverages AI techniques to create an advanced Checkers game experience. Our system integrates multiple AI methodologies, providing diverse and challenging gameplay options. Below is a brief overview of the key features:
 
 ## Features
 ### 1. ACO-based Neural Network Training
